@@ -1,0 +1,1 @@
+TinDog, basically means Tinder for Dogs. The objective was to build a basic landing page that is responsive, in order to understand how Bootstrap components such as buttons, cards, navigation bars, carousels and other templates.
